@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "perris-frontier-active",
     "status": "down",
-    "uptime": "68.32%",
-    "uptimeDay": "68.32%",
-    "uptimeWeek": "68.32%",
-    "uptimeMonth": "68.32%",
-    "uptimeYear": "68.32%",
+    "uptime": "17.91%",
+    "uptimeDay": "17.91%",
+    "uptimeWeek": "17.91%",
+    "uptimeMonth": "17.91%",
+    "uptimeYear": "17.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-10": 0
+      "2024-01-10": 2
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 150,
-    "timeWeek": 150,
-    "timeMonth": 150,
-    "timeYear": 150,
+    "time": 168,
+    "timeDay": 168,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 88,
-    "timeDay": 88,
-    "timeWeek": 88,
-    "timeMonth": 88,
-    "timeYear": 88,
+    "time": 173,
+    "timeDay": 173,
+    "timeWeek": 173,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {}
   },
   {
