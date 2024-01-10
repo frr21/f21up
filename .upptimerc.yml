@@ -4,6 +4,7 @@ repo: f21up # The name of this repository
 
 sites:
   - name: Perris-Frontier Active
+    check: "tcp-ping"
     url: 47.176.103.147
   - name: Wikipedia
     url: https://en.wikipedia.org
