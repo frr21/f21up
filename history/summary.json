@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-04": 69,
+      "2024-03-04": 1411,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-04": 69,
+      "2024-03-04": 1411,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
@@ -152,18 +152,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 80,
-    "timeWeek": 280,
-    "timeMonth": 271,
-    "timeYear": 258,
-    "dailyMinutesDown": {}
+    "time": 261,
+    "timeDay": 354,
+    "timeWeek": 289,
+    "timeMonth": 274,
+    "timeYear": 261,
+    "dailyMinutesDown": {
+      "2024-03-04": 1
+    }
   },
   {
     "name": "google dns",
@@ -182,7 +184,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-04": 69,
+      "2024-03-04": 1411,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
