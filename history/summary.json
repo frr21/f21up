@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-26": 955,
+      "2024-03-26": 962,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-26": 955,
+      "2024-03-26": 962,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
@@ -196,19 +196,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 369,
-    "timeWeek": 356,
+    "timeDay": 344,
+    "timeWeek": 350,
     "timeMonth": 302,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2024-03-26": 1
+      "2024-03-26": 7
     }
   },
   {
@@ -228,7 +228,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-26": 955,
+      "2024-03-26": 962,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
